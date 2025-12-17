@@ -1,0 +1,11 @@
+{
+  "mega": {
+    "enabled": true,
+    "interval": 2500,
+    "images": [
+      "https://i.imgur.com/NXxImtC.jpeg",
+      "https://i.imgur.com/gZ63nof.jpeg",
+      "https://i.imgur.com/hytGJDQ.jpeg"
+    ]
+  }
+}
