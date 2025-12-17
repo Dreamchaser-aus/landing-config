@@ -1,0 +1,15 @@
+{
+  "enabled": true,
+  "interval": 2500,
+  "marquee": "📢 Official platform · Bookmark this page · Always use official support listed here",
+  "items": [
+    {
+      "text": "⚠️ WhatsApp Support 2 暂时不可用，请使用其他客服",
+      "img": "https://i.imgur.com/gZ63nof.jpeg"
+    },
+    {
+      "text": "✅ 官方下载请认准本页面",
+      "img": "https://i.imgur.com/hytGJDQ.jpeg"
+    }
+  ]
+}
