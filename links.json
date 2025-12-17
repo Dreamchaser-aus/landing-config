@@ -1,0 +1,51 @@
+{
+  "downloads": {
+    "mega": [
+      "https://m.mega565.com",
+      "https://mega888alt.com"
+    ],
+    "918": [
+      "https://m.n918k.com"
+    ],
+    "pussy": [
+      "https://ytl.pussy888.com"
+    ]
+  },
+  "whatsapp": [
+    {
+      "label": "WhatsApp 1",
+      "url": "https://wa.me/601111111111",
+      "active": true
+    },
+    {
+      "label": "WhatsApp 2",
+      "url": "https://wa.me/601222222222",
+      "active": false
+    },
+    {
+      "label": "WhatsApp 3",
+      "url": "https://wa.me/601333333333",
+      "active": true
+    }
+  ],
+  "telegram": [
+    {
+      "label": "Telegram Support 1",
+      "url": "https://t.me/telegram1"
+    },
+    {
+      "label": "Telegram Support 2",
+      "url": "https://t.me/telegram2"
+    }
+  ],
+  "groups": [
+    {
+      "label": "Official Group 1",
+      "url": "#"
+    },
+    {
+      "label": "Official Group 2",
+      "url": "#"
+    }
+  ]
+}
